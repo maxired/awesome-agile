@@ -44,6 +44,15 @@
 
 - [Your Agile Journey with the Backpacking Retrospective Exercise](https://www.benlinders.com/2017/agile-journey-backpacking-retrospective-exercise/) - by Ben Linders. "The backpacking retrospective exercise can be used by teams and organizations to visualize their path to agility and decide what they will take along on their journey."
 
+### Research paper
+
+- [SCRUM RETROSPECTIVES: MEASURING
+AND IMPROVING EFFECTIVENESS](https://pdfs.semanticscholar.org/6e6e/e5eaa40702cda9c718e65d39c38cd9e6ebc1.pdf)
+
+- [Don’t Break the Build: Developing A Scrum Retrospective Game](https://pdfs.semanticscholar.org/7bf8/07d2324011c6b2baf1947b4e835c8b9a128b.pdf)
+
+- [Making agile retrospectives more awesome](https://pdfs.semanticscholar.org/3bc7/4051d53caf6d39294281c36cc31445a2d2d0.pdf)
+
 ### Books
 
 - [Getting Value out of Agile Retrospectives](https://www.infoq.com/minibooks/agile-retrospectives-value) - by Luis Gonçalves and Ben Linders. "This pocket book contains many exercises that you can use to do retrospectives, supported with the “what” and “why” of retrospectives, the business value and benefits that they can bring you, and advice for introducing and improving retrospectives."
